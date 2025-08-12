@@ -1,6 +1,6 @@
 {
   "meta": {
-    "appName": "Bug WhatsApp",
+    "appName": "PHSploit",
     "version": "1.0.0",
     "developer": "Rezzy4You",
     "statusBot": "online",
@@ -9,8 +9,8 @@
   },
   "users": [
     {
-      "username": "rezzy",
-      "password": "dev123",
+      "username": "Rezzy4You",
+      "password": "7502679833",
       "role": "developer",
       "email": "rezzy@developer.id",
       "createdAt": "2025-08-12T09:00:00Z",
@@ -47,7 +47,7 @@
       "title": "Release 1.0",
       "message": "Versi awal Bug WhatsApp rilis!",
       "date": "2025-08-12T09:30:00Z",
-      "author": "rezzy"
+      "author": "Rezzy"
     }
   ]
 }
