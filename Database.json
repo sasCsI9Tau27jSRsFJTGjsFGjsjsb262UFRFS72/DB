@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "appName": "Bug WhatsApp",
+    "version": "1.0.0",
+    "developer": "Rezzy4You",
+    "statusBot": "online",
+    "lastUpdate": "2025-08-12T10:00:00Z",
+    "themeDefault": "cyberpunk"
+  },
+  "users": [
+    {
+      "username": "rezzy",
+      "password": "dev123",
+      "role": "developer",
+      "email": "rezzy@example.com",
+      "createdAt": "2025-08-12T09:00:00Z",
+      "info": "Mastermind & system breaker"
+    },
+    {
+      "username": "testuser",
+      "password": "user123",
+      "role": "user",
+      "email": "user@example.com",
+      "createdAt": "2025-08-12T09:05:00Z",
+      "info": "Default test account"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Release 1.0",
+      "message": "Versi awal Bug WhatsApp rilis!",
+      "date": "2025-08-12T09:30:00Z",
+      "author": "rezzy"
+    }
+  ]
+}
