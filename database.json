@@ -17,10 +17,26 @@
       "info": "Mastermind & system breaker"
     },
     {
+      "username": "Zaan",
+      "password": "Zaan123",
+      "role": "owner",
+      "email": "Zaan@zyy.id",
+      "createdAt": "2025-08-12T09:05:00Z",
+      "info": "Friends Dev✅"
+    },
+    {
+      "username": "Ryuu",
+      "password": "Ryuu123",
+      "role": "owner",
+      "email": "Ryuu@zyy.id",
+      "createdAt": "2025-08-12T09:05:00Z",
+      "info": "Friends Dev✅"
+    },
+    {
       "username": "testuser",
       "password": "user123",
       "role": "user",
-      "email": "user@example.com",
+      "email": "user@zyy.id",
       "createdAt": "2025-08-12T09:05:00Z",
       "info": "Default test account"
     }
