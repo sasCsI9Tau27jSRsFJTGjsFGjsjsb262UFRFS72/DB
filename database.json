@@ -1,35 +1,4 @@
-{
-  "meta": {
-    "appName": "RHSploit",
-    "version": "1.0.0",
-    "developer": "Rezzy4You",
-    "statusBot": "online",
-    "lastUpdate": "2025-08-12T10:00:00Z",
-    "themeDefault": "cyberpunk"
-  },
-  "users": [
-    {
-      "username": "admin",
-      "password": "admin123",
-      "role": "developer",
-      "email": "rezzy@phantom.com",
-      "info": "Main developer",
-      "createdAt": "2025-08-01T12:00:00Z"
-    },
-    {
-      "username": "demo",
-      "password": "demo123",
-      "role": "user",
-      "createdAt": "2025-08-10T15:00:00Z"
-    }
-  ],
-  "announcements": [
-    {
-      "id": 1,
-      "title": "Welcome",
-      "message": "RHSploit system initialized",
-      "date": "2025-08-12T10:00:00Z",
-      "author": "rezzy4you"
-    }
-  ]
-}
+[
+  {"username": "user1", "password": "pass1"},
+  {"username": "user2", "password": "pass2"}
+]
