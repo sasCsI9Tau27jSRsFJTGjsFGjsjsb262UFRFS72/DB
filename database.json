@@ -1,8 +1,8 @@
 [
   {
-    "username": "john_developer",
-    "password": "devpass123",
-    "Role": "Developer"
+    "username": "Test",
+    "password": "Test123",
+    "Role": "User"
   },
   {
     "username": "sarah_owner",
