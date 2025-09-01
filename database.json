@@ -1,4 +1,37 @@
 [
-  {"username": "user1", "password": "pass1"},
-  {"username": "user2", "password": "pass2"}
+  {
+    "username": "owner",
+    "password": "owner_pass",
+    "role": "owner",
+    "photo": "https://via.placeholder.com/150/FF5733/FFFFFF?text=OWNER",
+    "bio": "System Owner & Administrator"
+  },
+  {
+    "username": "Admin",
+    "password": "Admin123",
+    "role": "developer",
+    "photo": "https://via.placeholder.com/150/33FF57/FFFFFF?text=DEV",
+    "bio": "Official Developer of Tools Only Zyy"
+  },
+  {
+    "username": "vvip",
+    "password": "vvip_pass",
+    "role": "vvip",
+    "photo": "https://via.placeholder.com/150/3366FF/FFFFFF?text=VVIP",
+    "bio": "Premium VVIP Member"
+  },
+  {
+    "username": "vip",
+    "password": "vip_pass",
+    "role": "vip",
+    "photo": "https://via.placeholder.com/150/FFFF33/000000?text=VIP",
+    "bio": "Valuable VIP Member"
+  },
+  {
+    "username": "user",
+    "password": "user_pass",
+    "role": "user",
+    "photo": "https://via.placeholder.com/150/CCCCCC/000000?text=USER",
+    "bio": "Standard User"
+  }
 ]
