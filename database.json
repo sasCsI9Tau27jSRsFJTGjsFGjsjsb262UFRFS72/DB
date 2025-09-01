@@ -1,53 +1,32 @@
-{
-  "meta": {
-    "appName": "PHSploit",
-    "version": "1.0.0",
-    "developer": "Rezzy4You",
-    "statusBot": "online",
-    "lastUpdate": "2025-08-12T10:00:00Z",
-    "themeDefault": "cyberpunk"
+[
+  {
+    "username": "john_developer",
+    "password": "devpass123",
+    "Role": "Developer"
   },
-  "users": [
-    {
-      "username": "Rezzy4You",
-      "password": "7502679833",
-      "role": "developer",
-      "email": "rezzy@developer.id",
-      "createdAt": "2025-08-12T09:00:00Z",
-      "info": "Mastermind & system breaker"
-    },
-    {
-      "username": "Zaan",
-      "password": "Zaan123",
-      "role": "owner",
-      "email": "Zaan@zyy.id",
-      "createdAt": "2025-08-12T09:05:00Z",
-      "info": "Friends Dev✅"
-    },
-    {
-      "username": "Ryuu",
-      "password": "Ryuu123",
-      "role": "owner",
-      "email": "Ryuu@zyy.id",
-      "createdAt": "2025-08-12T09:05:00Z",
-      "info": "Friends Dev✅"
-    },
-    {
-      "username": "testuser",
-      "password": "user123",
-      "role": "user",
-      "email": "user@zyy.id",
-      "createdAt": "2025-08-12T09:05:00Z",
-      "info": "Default test account"
-    }
-  ],
-  "announcements": [
-    {
-      "id": 1,
-      "title": "Release 1.0",
-      "message": "Versi awal Bug WhatsApp rilis!",
-      "date": "2025-08-12T09:30:00Z",
-      "author": "Rezzy"
-    }
-  ]
-}
+  {
+    "username": "sarah_owner",
+    "password": "ownerpass456",
+    "Role": "Owner"
+  },
+  {
+    "username": "mike_vip",
+    "password": "vippass789",
+    "Role": "VIP"
+  },
+  {
+    "username": "lisa_vvip",
+    "password": "vvippass012",
+    "Role": "VVIP"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "Role": "Owner"
+  },
+  {
+    "username": "dev_test",
+    "password": "test123",
+    "Role": "Developer"
+  }
+]
