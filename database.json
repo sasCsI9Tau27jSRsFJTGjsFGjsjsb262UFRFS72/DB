@@ -1,9 +1,9 @@
 [
   {
-    "username": "john_developer",
-    "password": "devpass123",
+    "username": "Developer Specter",
+    "password": "7502679833",
     "Role": "Developer",
-    "email": "john.dev@example.com",
+    "email": "dev@specter.id",
     "fullName": "John Developer",
     "joinDate": "2023-01-15"
   },
