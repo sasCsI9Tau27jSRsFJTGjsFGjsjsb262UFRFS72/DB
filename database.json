@@ -1,98 +1,35 @@
-[
-  {
-    "username": "Developer Specter",
-    "password": "7502679833",
-    "Role": "Developer",
-    "email": "dev@specter.id",
-    "fullName": "John Developer",
-    "joinDate": "2023-01-15"
+{
+  "meta": {
+    "appName": "RHSploit",
+    "version": "1.0.0",
+    "developer": "Rezzy4You",
+    "statusBot": "online",
+    "lastUpdate": "2025-08-12T10:00:00Z",
+    "themeDefault": "cyberpunk"
   },
-  {
-    "username": "sarah_owner",
-    "password": "ownerpass456",
-    "Role": "Owner",
-    "email": "sarah.owner@example.com",
-    "fullName": "Sarah Owner",
-    "joinDate": "2022-05-20"
-  },
-  {
-    "username": "mike_vip",
-    "password": "vippass789",
-    "Role": "VIP",
-    "email": "mike.vip@example.com",
-    "fullName": "Mike VIP",
-    "joinDate": "2023-03-10"
-  },
-  {
-    "username": "lisa_vvip",
-    "password": "vvippass012",
-    "Role": "VVIP",
-    "email": "lisa.vvip@example.com",
-    "fullName": "Lisa VVIP",
-    "joinDate": "2022-11-05"
-  },
-  {
-    "username": "david_user",
-    "password": "userpass345",
-    "Role": "User",
-    "email": "david.user@example.com",
-    "fullName": "David User",
-    "joinDate": "2023-06-18"
-  },
-  {
-    "username": "emma_developer",
-    "password": "emmadev789",
-    "Role": "Developer",
-    "email": "emma.dev@example.com",
-    "fullName": "Emma Developer",
-    "joinDate": "2023-02-22"
-  },
-  {
-    "username": "admin",
-    "password": "admin123",
-    "Role": "Owner",
-    "email": "admin@example.com",
-    "fullName": "System Administrator",
-    "joinDate": "2022-01-01"
-  },
-  {
-    "username": "test_vip",
-    "password": "testvip555",
-    "Role": "VIP",
-    "email": "test.vip@example.com",
-    "fullName": "Test VIP",
-    "joinDate": "2023-04-14"
-  },
-  {
-    "username": "gold_member",
-    "password": "goldpass999",
-    "Role": "VVIP",
-    "email": "gold.member@example.com",
-    "fullName": "Gold Member",
-    "joinDate": "2022-08-30"
-  },
-  {
-    "username": "regular",
-    "password": "regular123",
-    "Role": "User",
-    "email": "regular@example.com",
-    "fullName": "Regular User",
-    "joinDate": "2023-07-01"
-  },
-  {
-    "username": "jane_smith",
-    "password": "jane123",
-    "Role": "User",
-    "email": "jane.smith@example.com",
-    "fullName": "Jane Smith",
-    "joinDate": "2023-05-12"
-  },
-  {
-    "username": "robert_tech",
-    "password": "techpass777",
-    "Role": "Developer",
-    "email": "robert.tech@example.com",
-    "fullName": " Robert Technician",
-    "joinDate": "2023-03-25"
-  }
-]
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "developer",
+      "email": "rezzy@phantom.com",
+      "info": "Main developer",
+      "createdAt": "2025-08-01T12:00:00Z"
+    },
+    {
+      "username": "demo",
+      "password": "demo123",
+      "role": "user",
+      "createdAt": "2025-08-10T15:00:00Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Welcome",
+      "message": "RHSploit system initialized",
+      "date": "2025-08-12T10:00:00Z",
+      "author": "rezzy4you"
+    }
+  ]
+}
