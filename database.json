@@ -1,8 +1,37 @@
-{
-  "users": [
-    {
-      "username": "Test",
-      "password": "Test123"
-    }
-  ]
-}
+[
+  {
+    "username": "rezzy4you",
+    "password": "Rezzy123",
+    "role": "developer"
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "owner"
+  },
+  {
+    "username": "Ryuu",
+    "password": "Ryuu123",
+    "role": "owner"
+  },
+  {
+    "username": "vvipUser",
+    "password": "vvip123",
+    "role": "vvip"
+  },
+  {
+    "username": "vipUser",
+    "password": "vip123",
+    "role": "vip"
+  },
+  {
+    "username": "premiumUser",
+    "password": "prem123",
+    "role": "premium"
+  },
+  {
+    "username": "userBiasa",
+    "password": "user123",
+    "role": "user"
+  }
+]
