@@ -1,37 +1,37 @@
 [
   {
-    "username": "rezzy4you",
-    "password": "Rezzy123",
+    "username": "Developer",
+    "password": ""U3BlY3RlciBUZWFt"",
     "role": "developer"
   },
   {
-    "username": "admin",
-    "password": "admin123",
+    "username": "Zaan",
+    "password": "Zaan#t.me/peospecter#hsb7sj0r",
     "role": "owner"
   },
   {
     "username": "Ryuu",
-    "password": "Ryuu123",
+    "password": "Ryuu#t.me/peospecter#ksb8lqvd56",
     "role": "owner"
   },
   {
-    "username": "vvipUser",
-    "password": "vvip123",
-    "role": "vvip"
+    "username": "Jarz",
+    "password": "Jarz#t.me/peospecter/j0sbd83z",
+    "role": "owner"
   },
   {
-    "username": "vipUser",
-    "password": "vip123",
+    "username": "NoneNoneNone",
+    "password": "sjdhdhsihdbxvdjsnsnsn",
     "role": "vip"
   },
   {
-    "username": "premiumUser",
-    "password": "prem123",
+    "username": "NoneNoneNone",
+    "password": "shsjsbsjsbsksv",
     "role": "premium"
   },
   {
-    "username": "userBiasa",
-    "password": "user123",
+    "username": "FreeUser",
+    "password": "Freeuser123",
     "role": "user"
   }
 ]
