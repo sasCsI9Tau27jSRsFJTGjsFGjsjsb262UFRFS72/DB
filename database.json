@@ -2,36 +2,43 @@
   {
     "username": "Developer",
     "password": "U3BlY3RlciBUZWFt",
-    "role": "developer"
+    "role": "developer",
+    "expired": "2099-12-31"
   },
   {
     "username": "Zaan",
     "password": "Zaan#t.me/peospecter#hsb7sj0r",
-    "role": "owner"
+    "role": "owner",
+    "expired": "2025-12-31"
   },
   {
     "username": "Ryuu",
     "password": "Ryuu#t.me/peospecter#ksb8lqvd56",
-    "role": "owner"
+    "role": "owner",
+    "expired": "2025-12-31"
   },
   {
     "username": "Jarz",
     "password": "Jarz#t.me/peospecter/j0sbd83z",
-    "role": "owner"
+    "role": "owner",
+    "expired": "2025-11-01"
   },
   {
     "username": "NoneNoneNone",
     "password": "sjdhdhsihdbxvdjsnsnsn",
-    "role": "vip"
+    "role": "vip",
+    "expired": "2025-09-30"
   },
   {
     "username": "NoneNoneNone",
     "password": "shsjsbsjsbsksv",
-    "role": "premium"
+    "role": "premium",
+    "expired": "2025-10-15"
   },
   {
     "username": "FreeUser",
     "password": "Freeuser123",
-    "role": "user"
+    "role": "user",
+    "expired": "2024-09-20"
   }
 ]
