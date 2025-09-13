@@ -3,7 +3,7 @@
     "username": "Developer",
     "password": "U3BlY3RlciBUZWFt",
     "role": "developer",
-    "expired": "2099-12-31"
+    "expired": "2999-12-31"
   },
   {
     "username": "Zaan",
@@ -21,24 +21,24 @@
     "username": "Jarz",
     "password": "Jarz#t.me/peospecter/j0sbd83z",
     "role": "owner",
-    "expired": "2025-11-01"
+    "expired": "2025-12-31"
   },
   {
     "username": "NoneNoneNone",
     "password": "sjdhdhsihdbxvdjsnsnsn",
     "role": "vip",
-    "expired": "2025-09-30"
+    "expired": "2024-06-30"
   },
   {
     "username": "NoneNoneNone",
     "password": "shsjsbsjsbsksv",
     "role": "premium",
-    "expired": "2025-10-15"
+    "expired": "2024-06-30"
   },
   {
     "username": "FreeUser",
     "password": "Freeuser123",
     "role": "user",
-    "expired": "2024-09-20"
+    "expired": "2024-05-15"
   }
 ]
